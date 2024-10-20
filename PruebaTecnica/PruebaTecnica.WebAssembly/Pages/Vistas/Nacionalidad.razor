@@ -1,0 +1,105 @@
+﻿@page "/Nacionalidad"
+@page "/Nacionalidad/{Id:int}"
+
+@inject INacionalidadServicio nacionalidadServicio
+@inject IToastService toastService
+@inject NavigationManager _navServicio
+
+<div class="row justify-content-center  mt-3">
+    <p class="col-sm-12 col-md-8 col-xl-10 h4 mt-2">@Titulo</p>
+</div>
+<div class="row justify-content-center  mt-3">
+    <div class="col-sm-12 col-md-8 col-xl-10">
+        <EditForm Model="modelo" OnValidSubmit="GuardarCambios">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+
+            <div class="input-group">
+                <span class="input-group-text bg-light" id="basic-addon3">Nombre</span>
+                <input type="text" class="form-control" @bind-value="modelo.Nombre">
+            </div>
+            <ValidationMessage For="@(()=>modelo.Nombre)" />
+
+
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary" style="width:130px">@boton</button>
+                <a href="/Nacionalidades" class="btn btn-secondary" style="width:130px">Volver</a>
+            </div>
+        </EditForm>
+
+
+    </div>
+
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private string Titulo = "Nueva Nacionalidad";
+    private string boton = "Crear";
+
+    private NacionalidadDTO modelo = new NacionalidadDTO();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (Id != 0)
+        {
+            Titulo = "Editar Nacionalidad";
+            boton = "Actualizar";
+
+            var respuesta = await nacionalidadServicio.Obtener(Id);
+            if (respuesta.EsCorrecto!)
+            {
+                modelo = (NacionalidadDTO)respuesta.Resultado!;
+            }
+            else
+            {
+                toastService.ShowWarning(respuesta.Mensaje!);
+            }
+        }
+    }
+
+    private async Task GuardarCambios()
+    {
+        bool respuesta = true;
+        string mensaje = string.Empty;
+
+        if (Id != 0)
+        {
+            var response = await nacionalidadServicio.Editar(modelo);
+            if (response.EsCorrecto)
+            {
+                mensaje = "Nacionalidad Actualizada";
+            }
+            else
+            {
+                respuesta = false;
+                mensaje = "Nacionalidad no fue actualizada";
+            }
+        }
+        else
+        {
+            var response = await nacionalidadServicio.Crear(modelo);
+            if (response.EsCorrecto)
+            {
+                mensaje = "Nacionalidad Creada";
+            }
+            else
+            {
+                respuesta = false;
+                mensaje = response.Mensaje!;
+            }
+        }
+
+        if (respuesta)
+        {
+            toastService.ShowSuccess(mensaje);
+            _navServicio.NavigateTo("/Nacionalidades");
+        }
+        else
+        {
+            toastService.ShowWarning(mensaje);
+        }
+
+    }
+
+}

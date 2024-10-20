@@ -1,0 +1,11 @@
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\bin\Debug\net7.0\PruebaTecnica.DTO.deps.json
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\bin\Debug\net7.0\PruebaTecnica.DTO.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\bin\Debug\net7.0\PruebaTecnica.DTO.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.AssemblyInfoInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.AssemblyInfo.cs
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.csproj.CoreCompileInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\refint\PruebaTecnica.DTO.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\PruebaTecnica.DTO.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.DTO\obj\Debug\net7.0\ref\PruebaTecnica.DTO.dll

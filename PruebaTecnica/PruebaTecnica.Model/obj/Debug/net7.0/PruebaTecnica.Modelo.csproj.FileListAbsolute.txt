@@ -1,0 +1,14 @@
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\bin\Debug\net7.0\PruebaTecnica.Modelo.deps.json
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\bin\Debug\net7.0\PruebaTecnica.Modelo.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\bin\Debug\net7.0\PruebaTecnica.Modelo.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.AssemblyInfoInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.AssemblyInfo.cs
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.csproj.CoreCompileInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\refint\PruebaTecnica.Modelo.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\ref\PruebaTecnica.Modelo.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\bin\Debug\net7.0\PruebaTecnica.Modelo.runtimeconfig.json
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.csproj.AssemblyReference.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Model\obj\Debug\net7.0\PruebaTecnica.Modelo.genruntimeconfig.cache

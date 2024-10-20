@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PruebaTecnica.WebAssembly
+build_property.RootNamespace = PruebaTecnica.WebAssembly
+build_property.ProjectDir = D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.WebAssembly\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.WebAssembly
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Deporte.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXERlcG9ydGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Deportes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXERlcG9ydGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Deportista.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXERlcG9ydGlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Deportistas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXERlcG9ydGlzdGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Nacionalidad.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXE5hY2lvbmFsaWRhZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Pages/Vistas/Nacionalidades.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzdGFzXE5hY2lvbmFsaWRhZGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/JoaDiscoD/PruebaTecnica/PruebaTecnica/PruebaTecnica.WebAssembly/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

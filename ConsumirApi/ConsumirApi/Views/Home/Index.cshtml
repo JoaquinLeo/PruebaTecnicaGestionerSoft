@@ -1,0 +1,40 @@
+﻿@model List<Datos>
+@{
+    ViewData["Title"] = "Estadísticas BCRA";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Datos de Estadísticas BCRA</h1>
+</div>
+
+<div class="container col-8">
+    <div class="gap-3 d-md-flex justify-content-md-center mb-3">
+        <a asp-action="Index" asp-controller="Home" asp-route-peticion="inflacion_mensual_oficial" class="btn btn-success">Inflacion Mensual</a>
+        <a asp-action="Index" asp-controller="Home" asp-route-peticion="usd" class="btn btn-success">Cotizacion Dolar</a>
+        <a asp-action="Index" asp-controller="Home" asp-route-peticion="reservas" class="btn btn-success">Reservas Internacionales</a>
+        <a asp-action="Index" asp-controller="Home" asp-route-peticion="depositos" class="btn btn-success">Depositos</a>
+        <a asp-action="Index" asp-controller="Home" asp-route-peticion="plazo_fijo" class="btn btn-success">Plazos fijos</a>
+    </div>
+    <div class="container col-4">
+        <table class="table justify-content-md-center text-center">
+            <thead>
+                <tr>
+                    <th>Fecha</th>
+                    <th>Valor</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.d</td>
+                        <td>@item.v</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+</div>
+     
+

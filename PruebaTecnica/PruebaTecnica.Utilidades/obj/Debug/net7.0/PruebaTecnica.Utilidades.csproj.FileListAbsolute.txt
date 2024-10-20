@@ -1,0 +1,17 @@
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.Utilidades.deps.json
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.Utilidades.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.Utilidades.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.AssemblyInfoInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.AssemblyInfo.cs
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.csproj.CoreCompileInputs.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\refint\PruebaTecnica.Utilidades.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\ref\PruebaTecnica.Utilidades.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.DTO.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.Modelo.dll
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.DTO.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\bin\Debug\net7.0\PruebaTecnica.Modelo.pdb
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.csproj.AssemblyReference.cache
+D:\JoaDiscoD\PruebaTecnica\PruebaTecnica\PruebaTecnica.Utilidades\obj\Debug\net7.0\PruebaTecnica.Utilidades.csproj.CopyComplete
